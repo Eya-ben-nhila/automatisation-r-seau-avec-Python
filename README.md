@@ -1,5 +1,4 @@
 # automatisation-reseau-avec-Python
-# Projet Network Automation avec Netmiko
 
 Ce projet utilise **Netmiko**, une bibliothèque Python permettant de se connecter de manière simple et fiable aux dispositifs réseau via leur CLI (interface en ligne de commande). Ce projet permet d'automatiser les tâches administratives des équipements réseau en utilisant les connexions CLI.
 
